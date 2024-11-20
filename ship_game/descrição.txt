@@ -1,0 +1,1 @@
+Jogo simples em que uma nave (o panda) atira em um inimigo (cobra). Quando o inimigo é acertado, ele fica mais rápido, ficando mais difícil de acertar de novo

@@ -8,7 +8,7 @@ if arg[2] == "debug" then
     require("lldebugger").start()
     DEBUG_MODE = true
 end
-
+-- po 
 -- love.load -> love.update -> love.draw -> love.update -> love.draw -> love.update (...)
 
 function love.load()

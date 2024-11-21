@@ -15,6 +15,7 @@ function love.load()
     World = love.physics.newWorld(0, 0, true)
     World:setCallbacks(BeginContact, EndContact, PreSolve, PostSolve)
     PlayerOne = Player(0, 100, 100)
+    novaVar = 1
     EnemySnake = Enemy(500, 500, 100)
 end
 
